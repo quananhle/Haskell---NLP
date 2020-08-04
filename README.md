@@ -3,5 +3,5 @@ Natural Language Processing w/ Functional Programming Language
 
 
 
-##### "Haskell is Useless" 
+#### "Haskell is Useless" 
 -- Simon Peyton Jones
