@@ -1,6 +1,3 @@
-Quan Le
-A20410211
-
 1. cycleN :: Int -> [a] -> [a]
 
 Write a function that takes a number n and a list l 
